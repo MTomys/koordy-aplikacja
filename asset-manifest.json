@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/koordynaty-apka/static/css/main.367eeb39.css",
+    "main.js": "/koordynaty-apka/static/js/main.b88f43ff.js",
+    "index.html": "/koordynaty-apka/index.html",
+    "main.367eeb39.css.map": "/koordynaty-apka/static/css/main.367eeb39.css.map",
+    "main.b88f43ff.js.map": "/koordynaty-apka/static/js/main.b88f43ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367eeb39.css",
+    "static/js/main.b88f43ff.js"
+  ]
+}
